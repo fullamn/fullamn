@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fullamn
 - 👀 I’m interested in ... embedded sysems, IoT, and how those can be used in laboratory automation.
-- 🌱 I’m currently learning ... TCP/UDP networking between embedded systems, XML message parsing and construction, PCB Design
+- 🌱 I’m currently learning ... Intersystem Communication, Hyperthreading for Embedded Systems, PCB Design
 - 📫 How to reach me ... Connect with me on [LinkedIn](https://www.linkedin.com/in/nate-fullam-b534a619a/)
 
 <!---
